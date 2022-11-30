@@ -1,0 +1,298 @@
+{
+    "status": 200,
+    "message": "Listando planos.",
+    "data": {
+        "paidStatus": [
+            {
+                "cabecTitulo": {
+                    "aCodCateg": [
+                        {
+                            "cCodCateg": "1.01.02",
+                            "nPerc": 100,
+                            "nValor": 159
+                        }
+                    ],
+                    "cCPFCNPJCliente": "38.302.135/0001-84",
+                    "cCodCateg": "1.01.02",
+                    "cCodIntTitulo": "",
+                    "cCodigoBarras": "00190000090347932100600000031179889630000015900",
+                    "cNatureza": "R",
+                    "cNumBoleto": "34793210000000031",
+                    "cNumCtr": "2022/00034",
+                    "cNumDocFiscal": "18909",
+                    "cNumOS": "41",
+                    "cNumParcela": "001/001",
+                    "cNumTitulo": "RPS 33",
+                    "cOperacao": "01",
+                    "cOrigem": "VENR",
+                    "cRetCOFINS": "N",
+                    "cRetCSLL": "N",
+                    "cRetINSS": "N",
+                    "cRetIR": "N",
+                    "cRetISS": "N",
+                    "cRetPIS": "N",
+                    "cStatus": "RECEBIDO",
+                    "cTipo": "99999",
+                    "dDtEmissao": "18/04/2022",
+                    "dDtPagamento": "26/04/2022",
+                    "dDtPrevisao": "22/04/2022",
+                    "dDtRegistro": "18/04/2022",
+                    "dDtVenc": "22/04/2022",
+                    "nCodCC": 5544835049,
+                    "nCodCliente": 5603221615,
+                    "nCodCtr": 5603222086,
+                    "nCodNF": 5603222468,
+                    "nCodOS": 5603222417,
+                    "nCodTitRepet": 5603222532,
+                    "nCodTitulo": 5603222532,
+                    "nValorCOFINS": 0,
+                    "nValorCSLL": 0,
+                    "nValorINSS": 0,
+                    "nValorIR": 0,
+                    "nValorISS": 0,
+                    "nValorPIS": 0,
+                    "nValorTitulo": 159
+                },
+                "lancamentos": [
+                    {
+                        "cCodIntLanc": "",
+                        "cNatureza": "R",
+                        "cObsLanc": "Recebimento realizado automaticamente a partir da Integração com o Banco do Brasil.",
+                        "dDtLanc": "26/04/2022",
+                        "nCodCC": 5544835049,
+                        "nCodLanc": 5616342950,
+                        "nDesconto": 0,
+                        "nIdLancCC": 5616342949,
+                        "nJuros": 0,
+                        "nMulta": 0,
+                        "nValLanc": 159
+                    }
+                ],
+                "resumo": {
+                    "cLiquidado": "S",
+                    "nDesconto": 0,
+                    "nJuros": 0,
+                    "nMulta": 0,
+                    "nValAberto": 0,
+                    "nValLiquido": 159,
+                    "nValPago": 159
+                }
+            },
+            {
+                "cabecTitulo": {
+                    "aCodCateg": [
+                        {
+                            "cCodCateg": "1.01.02",
+                            "nPerc": 100,
+                            "nValor": 79.5
+                        }
+                    ],
+                    "cCPFCNPJCliente": "38.302.135/0001-84",
+                    "cCodCateg": "1.01.02",
+                    "cCodIntTitulo": "",
+                    "cCodigoBarras": "00190000090347932100600000158170189880000007950",
+                    "cNatureza": "R",
+                    "cNumBoleto": "34793210000000158",
+                    "cNumCtr": "2022/00034",
+                    "cNumDocFiscal": "20619",
+                    "cNumOS": "168",
+                    "cNumParcela": "001/001",
+                    "cNumTitulo": "RPS 160",
+                    "cOperacao": "01",
+                    "cOrigem": "VENR",
+                    "cRetCOFINS": "N",
+                    "cRetCSLL": "N",
+                    "cRetINSS": "N",
+                    "cRetIR": "N",
+                    "cRetISS": "N",
+                    "cRetPIS": "N",
+                    "cStatus": "RECEBIDO",
+                    "cTipo": "BOL",
+                    "dDtEmissao": "12/05/2022",
+                    "dDtPagamento": "09/06/2022",
+                    "dDtPrevisao": "17/05/2022",
+                    "dDtRegistro": "12/05/2022",
+                    "dDtVenc": "17/05/2022",
+                    "nCodCC": 5544835049,
+                    "nCodCliente": 5603221615,
+                    "nCodCtr": 5603222086,
+                    "nCodNF": 5634963420,
+                    "nCodOS": 5634963384,
+                    "nCodTitRepet": 5634963501,
+                    "nCodTitulo": 5634963501,
+                    "nValorCOFINS": 0,
+                    "nValorCSLL": 0,
+                    "nValorINSS": 0,
+                    "nValorIR": 0,
+                    "nValorISS": 0,
+                    "nValorPIS": 0,
+                    "nValorTitulo": 79.5
+                },
+                "lancamentos": [
+                    {
+                        "cCodIntLanc": "",
+                        "cNatureza": "R",
+                        "cObsLanc": "Recebimento realizado automaticamente a partir da Integração com o Banco do Brasil.|O pagamento foi realizado da seguinte maneira: Débito em conta - Internet (home / office banking)",
+                        "dDtLanc": "09/06/2022",
+                        "nCodCC": 5544835049,
+                        "nCodLanc": 5679977783,
+                        "nDesconto": 0,
+                        "nIdLancCC": 5679977782,
+                        "nJuros": 0,
+                        "nMulta": 0,
+                        "nValLanc": 79.5
+                    }
+                ],
+                "resumo": {
+                    "cLiquidado": "S",
+                    "nDesconto": 0,
+                    "nJuros": 0,
+                    "nMulta": 0,
+                    "nValAberto": 0,
+                    "nValLiquido": 79.5,
+                    "nValPago": 79.5
+                }
+            },
+            {
+                "cabecTitulo": {
+                    "aCodCateg": [
+                        {
+                            "cCodCateg": "1.01.01",
+                            "nPerc": 100,
+                            "nValor": 159
+                        }
+                    ],
+                    "cCPFCNPJCliente": "38.302.135/0001-84",
+                    "cCodCateg": "1.01.01",
+                    "cCodIntTitulo": "",
+                    "cCodigoBarras": "00190000090347932100600000904177190190000015900",
+                    "cNatureza": "R",
+                    "cNumBoleto": "34793210000000904",
+                    "cNumCtr": "2022/00034",
+                    "cNumDocFiscal": "23607",
+                    "cNumOS": "911",
+                    "cNumParcela": "001/001",
+                    "cNumTitulo": "RPS 902",
+                    "cOperacao": "01",
+                    "cOrigem": "VENR",
+                    "cRetCOFINS": "N",
+                    "cRetCSLL": "N",
+                    "cRetINSS": "N",
+                    "cRetIR": "N",
+                    "cRetISS": "N",
+                    "cRetPIS": "N",
+                    "cStatus": "RECEBIDO",
+                    "cTipo": "BOL",
+                    "dDtEmissao": "13/06/2022",
+                    "dDtPagamento": "13/06/2022",
+                    "dDtPrevisao": "17/06/2022",
+                    "dDtRegistro": "13/06/2022",
+                    "dDtVenc": "17/06/2022",
+                    "nCodCC": 5544835049,
+                    "nCodCliente": 5603221615,
+                    "nCodCtr": 5603222086,
+                    "nCodNF": 5680080190,
+                    "nCodOS": 5680080173,
+                    "nCodTitRepet": 5680081194,
+                    "nCodTitulo": 5680081194,
+                    "nValorCOFINS": 0,
+                    "nValorCSLL": 0,
+                    "nValorINSS": 0,
+                    "nValorIR": 0,
+                    "nValorISS": 0,
+                    "nValorPIS": 0,
+                    "nValorTitulo": 159
+                },
+                "lancamentos": [
+                    {
+                        "cCodIntLanc": "",
+                        "cNatureza": "R",
+                        "cObsLanc": "Recebimento realizado automaticamente a partir da Integração com o Banco do Brasil.|O pagamento foi realizado da seguinte maneira: Débito em conta - Internet (home / office banking)",
+                        "dDtLanc": "13/06/2022",
+                        "nCodCC": 5544835049,
+                        "nCodLanc": 5683828592,
+                        "nDesconto": 0,
+                        "nIdLancCC": 5683828591,
+                        "nJuros": 0,
+                        "nMulta": 0,
+                        "nValLanc": 159
+                    }
+                ],
+                "resumo": {
+                    "cLiquidado": "S",
+                    "nDesconto": 0,
+                    "nJuros": 0,
+                    "nMulta": 0,
+                    "nValAberto": 0,
+                    "nValLiquido": 159,
+                    "nValPago": 159
+                }
+            }
+        ],
+        "overdueStatus": [
+            {
+                "cabecTitulo": {
+                    "aCodCateg": [
+                        {
+                            "cCodCateg": "1.01.01",
+                            "nPerc": 100,
+                            "nValor": 159
+                        }
+                    ],
+                    "cCPFCNPJCliente": "38.302.135/0001-84",
+                    "cCodCateg": "1.01.01",
+                    "cCodIntTitulo": "",
+                    "cCodigoBarras": "00190000090347932100600002921179390470000015900",
+                    "cNatureza": "R",
+                    "cNumBoleto": "34793210000002921",
+                    "cNumCtr": "2022/00034",
+                    "cNumDocFiscal": "27160",
+                    "cNumOS": "2913",
+                    "cNumParcela": "001/001",
+                    "cNumTitulo": "RPS 2902",
+                    "cOperacao": "01",
+                    "cOrigem": "VENR",
+                    "cRetCOFINS": "N",
+                    "cRetCSLL": "N",
+                    "cRetINSS": "N",
+                    "cRetIR": "N",
+                    "cRetISS": "N",
+                    "cRetPIS": "N",
+                    "cStatus": "ATRASADO",
+                    "cTipo": "BOL",
+                    "dDtEmissao": "12/07/2022",
+                    "dDtPrevisao": "15/07/2022",
+                    "dDtRegistro": "12/07/2022",
+                    "dDtVenc": "15/07/2022",
+                    "nCodCC": 5544835049,
+                    "nCodCliente": 5603221615,
+                    "nCodCtr": 5603222086,
+                    "nCodNF": 5721562611,
+                    "nCodOS": 5721562609,
+                    "nCodTitRepet": 5721562643,
+                    "nCodTitulo": 5721562643,
+                    "nValorCOFINS": 0,
+                    "nValorCSLL": 0,
+                    "nValorINSS": 0,
+                    "nValorIR": 0,
+                    "nValorISS": 0,
+                    "nValorPIS": 0,
+                    "nValorTitulo": 159
+                },
+                "lancamentos": [],
+                "resumo": {
+                    "cLiquidado": "N",
+                    "nDesconto": 0,
+                    "nJuros": 0,
+                    "nMulta": 0,
+                    "nValAberto": 159,
+                    "nValLiquido": 0,
+                    "nValPago": 0
+                }
+            }
+        ],
+        "cancelStatus": [],
+        "pendingStatus": [],
+        "miscEntries": []
+    }
+}

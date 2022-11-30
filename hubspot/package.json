@@ -1,0 +1,9 @@
+{
+  "name": "hubspot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hubspot/api-client": "^7.1.2"
+  }
+}
